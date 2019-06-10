@@ -1,5 +1,7 @@
 # CaptainHook
 
+**NOTE**: This repository and package is abandoned, please use the official [captaionhook](https://github.com/CaptainHookPhp/captainhook) repository instead.
+
 *CaptainHook* is an easy to use and very flexible git hook library for php developers.
 It enables you to configure your git hook actions in a simple json file.
 
